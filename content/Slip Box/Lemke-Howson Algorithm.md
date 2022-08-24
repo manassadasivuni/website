@@ -5,7 +5,7 @@ alias: Lemke-Howson
 > A particular algorithm that computes a [[Nash equilibrium]] for a [[Games#Normal form|Normal form game]] 
 
 $$
-\begin{align}
+\begin{aligned}
 \sum_{k \in A_2} u_1 \left( a^j_1, a^k_2 \right) \cdot s^k_2 + r^j_1 = U^*_1 & \quad \quad \forall j \in A_1\\
 
 \sum_{j \in A_1} u_1 \left( a^j_1, a^k_2 \right) \cdot s^k_2 + r^j_1 = U^*_1 & \quad \quad \forall k \in A_2 \\
@@ -15,7 +15,7 @@ $$
 s^j_1 \geq 0, s^k_2 \geq 0 & \quad \quad \forall j \in A_1, \forall k \in A_2\\
 r^j_1 \geq 0, r^k_2 \geq 0 & \quad \quad \forall j \in A_1, \forall k \in A_2\\
 r^j_1 \cdot s^j_1 = 0, r^j_2 \cdot s^j_2 = 0 & \quad \quad \forall j \in A_1, \forall k \in A_2
-\end{align}
+\end{aligned}
 $$
 - $s$ is the probability of a player taking a particular action
 	- $s^j_1$ is the probability player 1 plays action $j$
