@@ -1,0 +1,38 @@
+---
+alias: MN10500 
+---
+
+- Unit Code:: [[MN10500 Corporate finance for managers|MN10500]]
+- Title:: Corporate [[finance]] for managers (*==OPTIONAL==*)
+- ECTS Credits:: 6 credits (equivalent to 12 CATS credits)
+- Assessment:: *==Being changed, check again soon==*
+- Requisites::
+- Aims:: The unit introduces students to the issues involved in a firm's investment and financing decisions. Students will develop an understanding of the primary financial statements and how a firm raises [[finance]].
+- Learning Outcomes:: 
+	- Understand the primary financial statements
+	- Understand the main sources of funds for a firm
+	- Understand the theoretical basis of the time value of money and the calculation of present values
+	- Analyse investment appraisal problems using various techniques
+	- Analyse working capital management issues and problems
+- Skills:: 
+	- Intellectual skills
+		- Identifying financial information and analytical techniques relevant to a particular [[purpose]]
+		- Interpreting the results of analysis in a manner pertinent to a specified problem/objective
+	- Professional practical skills
+		- communication skills in relation to reporting on financial information
+	- Transferable/Key skills
+		- Applying a range of quantitative analysis techniques
+		- Critical skills in the application of techniques and the interpretation of results
+- Content::
+	- The primary financial statements
+	- [[Debt]] and equity markets
+	- Payback and accounting rate of return
+	- Discounting future cash flows, net present value, and IRR
+	- Working capital management
+
+---
+- Index:: [[University of Bath]]
+- Related:: [[Economics]]
+- Year:: 1
+- Semester:: 2 
+---

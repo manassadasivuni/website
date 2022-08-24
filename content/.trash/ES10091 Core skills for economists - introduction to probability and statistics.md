@@ -1,0 +1,37 @@
+---
+alias: ES10091
+---
+
+- Unit Code:: [[ES10091 Core skills for economists - introduction to probability and statistics|ES10091]]
+- Title:: Core skills for economists: introduction to probability and [[statistics]]
+- ECTS Credits:: 6 credits (equivalent to 12 CATS credits)
+- Assessment:: Exam (100%)
+- Requisites::
+- Aims:: Basic statistical knowledge is fundamental to any understanding of applied economic topics (i.e. testing of micro and macro models). The aim, in this respect, is to give students the necessary background for the second semester unit [[ES10004 Core skills for economics - statistics and data analysis|ES10004]] [[Statistics]] and [[Data Analysis]] and second year Introduction to Econometrics. More specifically, the unit aims to provide students with the theoretical foundations to understand the tools of [[data analysis]] and the techniques of probability and statistical inference.
+- Learning Outcomes:: 
+	- Calculate univariate and multivariate probabilities using a variety of discrete and continuous distributions
+	- Understand principles of random sampling and construction of sampling distributions
+	- Understand the principles of parameter estimation
+- Skills:: Statistical skills, problem-solving
+- Content::
+	- Probability
+		- Probability theory
+			- Random experiments, outcomes and events. The nature of probability. Probability rules. Permutations and combinations. Bayes' theorem.
+		- Discrete Random Variables and Probability Distributions
+			- Random variables. Probability distributions for discrete random variables.
+		- Continuous Random Variables and Probability Distributions
+			- Continuous random variables. Expectations. The Normal distribution.
+		- Jointly distributed random variables
+			- Bivariate probabilities. Conditional moments. Conditional moment functions Jointly distributed continuous random variables.
+	- [[Statistics]]
+		- Sampling and Sampling Distributions
+			- Sampling from a population. Sampling distribution of the sampling mean, sample proportion, and sample [[variance]].
+		- Estimation
+			- Point estimators
+
+---
+- Index:: [[University of Bath]]
+- Related:: [[Economics]]
+- Year:: 1
+- Semester:: 1
+---

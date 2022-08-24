@@ -1,0 +1,50 @@
+---
+alias: MN10248 
+---
+
+- Unit Code:: [[MN10248 Introduction to accounting|MN10248]] 
+- Title:: Introduction to accounting (*==OPTIONAL==*)
+- ECTS Credits:: 6 credits (equivalent to 12 CATS credits)
+- Assessment::  Exam (100% - Qualifying mark: 35)
+- Requisites::
+- Aims:: 
+	- Explain the conceptual and regulatory framework of accounting
+	- Apply double entry techniques to record transactions and prepare financial statements
+	- Apply interpretative techniques to published financial statements
+	- Estimate costs for planned activities
+	- Manage costs to make short-run decisions
+	- Identify relevant costs and make decisions with and without resource constraints
+- Learning Outcomes:: 
+	- Understand how accounting serves the [[purpose]] of developing and operating a business
+	- Prepare financial statements for [[limited liability]] companies
+	- Interpret financial and management accounting [[data]] in order to make decisions
+- Skills:: 
+	- Intellectual:
+		- apply subject specific knowledge to a range of organisational situations
+		- an awareness of current issues and trends
+		- understanding of theoretical concepts and frameworks
+	- Practical
+		- deal with complex issues and make sound judgements
+		- work and communicate effectively with others
+		- apply advanced knowledge to practical cases
+	- Transferable
+		- develop a holistic perspective on strategic HR practices
+		- develop a deep appreciation of contextual influences
+		- appreciation and in-depth understanding of the human resources function and competences required
+	- Personal
+		- communicating, including presenting and promoting themselves and their ideas; preparing and production of effective critical analysis
+		- self motivation
+		- cooperative working with others, whilst debating and appreciating the views of others
+- Content::
+	- Evidence based approaches to strategic HR
+	- Talent and knowledge management
+	- Diversity management
+	- Wellbeing management
+	- Meaning and purpose-led management
+
+---
+- Index:: [[University of Bath]]
+- Related:: [[Economics]], [[Finance]]
+- Year:: 1
+- Semester:: 1
+---
