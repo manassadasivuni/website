@@ -2,7 +2,7 @@
 alias: "Data science"
 title: "Data analytics" 
 ---
----
+
 >[!SUMMARY]+
 >Data analytics (also called data science) is the modelling and understanding of the unknown by using raw [[Data]]
 

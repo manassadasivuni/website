@@ -4,7 +4,7 @@ title: "Games of pure cooperation"
 > [!SUMMARY]+
 > [[Games]] where all players have the *exact* same interests
 
-These [[games]] do not have conflict as all players want the same things.
+These [[Games]] do not have conflict as all players want the same things.
 $$
 \forall a \in A; \forall i, j, u_i(a) = u_j(a)
 $$

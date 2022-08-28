@@ -9,7 +9,7 @@ alias: Real interest rate, Nominal interest rate
 As it is charged when borrowing money, it can be thought of as the "price" of money.
 
 ## Real interest rate
-The real interest rate is the nominal interest rate minus the rate of [[inflation]].
+The real interest rate is the nominal interest rate minus the rate of [[Inflation]].
 
 ---
 - Index:: [[_Economics]] 

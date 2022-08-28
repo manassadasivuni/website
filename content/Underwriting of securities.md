@@ -4,7 +4,7 @@ title: "Underwriting of securities"
 > [!SUMMARY]+
 > Underwriting a security involves certifying, and accepting liability, that the security is valid 
 
-This reduces the [[risk]] of a [[moral hazard]]. 
+This reduces the [[Risk]] of a [[Moral hazard]]. 
 
 There are two scenarios when underwriting an issuance of [[Stocks|shares]]:
 1. A Bought Deal (aka Firm commitment offering) where the underwriter (the [[Investment banking|investment bank]]) agrees to buy all [[Stocks|shares]] that aren't sold

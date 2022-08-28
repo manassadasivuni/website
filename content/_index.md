@@ -1,26 +1,22 @@
 ---
-title: 
+title: "Home"
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hello there, I'm **Manas Sadasivuni**. I am currently in my **first year of the [[_Economics]] course** at [University of Bath](http://bath.ac.uk/). This website is a place where I can share notes that I have written on whichever topic in an unstructured manner known as a **digital garden**.
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+All the notes contain the same basic structure, but will have varying levels of detail. Some notes might be fully fleshed out while others will be little more than the template. Arguably, the information inside the note is not as important as the information *about* it. The note's name, backlinks and index can often be enough to justify its existence - plus some ideas are self-evident enough to not require explanation.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+There are notes with broken contents. All these notes are written using [Obsidian](https://obsidian.md/) where I use plugins that render notes with additional information. The obvious example is within any of the [[_Indexes]] or where large [[_Math]] equations aren't displayed properly.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+## Entry Points
+The only structure that these notes have is that they all lead back to an index. To explore each index, head to the `Backlinks` section to explore related ideas.
+- [[_Indexes]]
+- [[_Computer Science]]
+- [[_Cryptocurrency]]
+- [[_Data analytics]]
+- [[_Economics]]
+- [[_Finance]]
+- [[_Game Theory]]
+- [[_Math]]
+- [[_Psychology]]
+- [[_Statistics]]

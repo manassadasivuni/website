@@ -3,7 +3,7 @@ title: "Structured Query Language (SQL)"
 alias: SQL
 ---
 > [!SUMMARY]+
-> SQL is a language used to store, manipulate, and retrieve [[data]] in a [[Database]]
+> SQL is a language used to store, manipulate, and retrieve [[Data]] in a [[Database]]
 
 ```sql
 SELECT

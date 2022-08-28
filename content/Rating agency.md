@@ -3,7 +3,7 @@ title: "Rating agencies"
 alias: Rating agencies
 ---
 > [!SUMMARY]+
-> A rating agency assesses the financial strength of companies and [[government]] entities and publishes this information
+> A rating agency assesses the financial strength of companies and [[Government]] entities and publishes this information
 
 
 ---

@@ -2,7 +2,7 @@
 title: "Data analyst" 
 ---
 > [!SUMMARY]+
-> Someone who collects, transforms, and organises [[data]] in order to help make informed decisions
+> Someone who collects, transforms, and organises [[Data]] in order to help make informed decisions
 
 ## Common problems
 Common types of problems faced by data analysts are:

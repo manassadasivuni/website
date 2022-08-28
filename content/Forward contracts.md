@@ -9,7 +9,7 @@ An example is a rice farmer making a deal to sell rice to a warehouse once the r
 
 An important part of a forward contract is *that they cannot be escaped*. In other words, *neither party can leave the contract even if they wish to*.
 
-A forex forward can be thought of as a zero coupon bond and the forward rate represents the [[interest rates]] of the two currencies
+A forex forward can be thought of as a zero coupon bond and the forward rate represents the [[Interest rates]] of the two currencies
 
 $$
 \text{Forward rate (¥/\$)} = \text{Spot rate (¥/\$)} \times \frac{1+r_¥}{1+r_\$}

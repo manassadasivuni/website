@@ -2,7 +2,7 @@
 title: "Utility function" 
 ---
 > [!SUMMARY]+
-> A [[utility]] function quantifies the degree of preference across multiple alternatives
+> A [[Utility]] function quantifies the degree of preference across multiple alternatives
 
 
 

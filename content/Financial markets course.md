@@ -8,8 +8,6 @@ Topics covered:
 - [[Risk]]
 - [[Insurance]]
 - [[Diversification]]
-- [[History of finance]]
-- [[Innovation]]
 - [[Efficient markets]]
 - [[Behavioural finance]]
 - [[Debt]]
@@ -25,8 +23,6 @@ Topics covered:
 - [[Money managers]]
 - [[Exchanges]]
 - [[Public finance]]
-- [[Nonprofits]]
-- [[Purpose]]
 ---
 - Index:: [[_Finance]] 
 - Related:: 
