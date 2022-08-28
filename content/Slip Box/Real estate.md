@@ -1,7 +1,0 @@
-> [!SUMMARY]+
-
-
----
-- Index:: [[Finance]] 
-- Related:: 
----

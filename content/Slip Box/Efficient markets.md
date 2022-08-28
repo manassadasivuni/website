@@ -1,6 +1,0 @@
-> [!SUMMARY]+
->
----
-- Index:: [[Economics]] 
-- Related:: 
----

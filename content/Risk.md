@@ -1,11 +1,9 @@
 ---
-title: "{{title}}"
+title: "Risk" 
 ---
 > [!SUMMARY]+
 > 
-
-
-
 ---
-- Index:: 
+- Index:: [[_Finance]]
 - Related:: 
+---
