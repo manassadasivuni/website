@@ -1,9 +1,0 @@
-> [!SUMMARY]+
-> 
-
-
-
----
-- Index:: 
-- Related:: 
----
